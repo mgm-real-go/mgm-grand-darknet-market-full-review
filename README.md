@@ -53,4 +53,6 @@ This guide is made available only for educational and informational purposes. Th
 
 
 
-Update:  08/13/2025
+
+
+Update:  19.08.2025
