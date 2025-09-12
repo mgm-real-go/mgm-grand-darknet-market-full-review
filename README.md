@@ -57,4 +57,6 @@ This guide is made available only for educational and informational purposes. Th
 
 
 
-Update:  23.08.2025 url is functioning properly
+
+
+Update:  Friday 12 September 2025 Broken anchors
