@@ -59,4 +59,6 @@ This guide is made available only for educational and informational purposes. Th
 
 
 
-Update:  Friday 12 September 2025 Broken anchors
+
+
+Update:  12 September
